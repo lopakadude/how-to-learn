@@ -34,7 +34,6 @@
 .header__text{
   display: flex;
   flex-direction: column;
-  max-height: ;
 }
 .header__title {
   width: 730px;
@@ -73,7 +72,7 @@
 .header__square-pic {
   height: 568px;
   width: 568px;
-  background-color: #2f80ed ;
+  background-color: #2f80ed;
   position: absolute;
   top: 64px;
   right: 0;
@@ -214,7 +213,8 @@
   text-decoration: none;
   color: #2f80ed;
   line-height: 51px;
-  font-size: 36px;font-weight: normal;
+  font-size: 36px;
+  font-weight: normal;
 }
 .feynman__link::after{
   content: ' \2192';
@@ -234,7 +234,7 @@
 .kaufman__title {
   z-index: 2;
 }
-.section-subtitle {
+.section-subtitle-kaufman {
   margin: 0px 0px 80px 0px;
 }
 
