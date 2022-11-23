@@ -101,20 +101,18 @@
 
 .two-columns__brief {
   max-width: 177px;
-
 }
 .two-columns__title {
   color: #2f80ed;
   line-height: 1.2;
   font-size: 18px;
-
 }
 
 .two-columns__main-text {
   line-height: 34px;
   font-size: 24px;
   width: 80%;
-  min-width: ;
+  min-width: 784px;
 }
 .two-columns__paragraph {
   margin-bottom: 30px;
