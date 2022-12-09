@@ -5,11 +5,8 @@
 	font-size: 30px;
 	font-weight: normal;
 	color: #2f80ed;
-	position: absolute;
-	top: 0;
-	left: 668px;
 	text-align: left;
-
+	display: block;
 }
 
 .khan__buy-link::after {
