@@ -79,7 +79,6 @@
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
-
 .page {
 	min-width: 1100px;
 	/* мы ещё не умеем делать мобильную версию сайта, */
