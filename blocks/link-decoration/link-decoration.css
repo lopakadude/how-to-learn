@@ -1,0 +1,11 @@
+.link-decoration {
+	text-decoration: none;
+	opacity: 1;
+	transition: opacity 0.5s ease;
+	margin: 0;
+	padding: 0;
+}
+
+.link-decoration:hover {
+	opacity: 0.7;
+}
